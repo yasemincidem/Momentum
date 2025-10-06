@@ -37,4 +37,4 @@ pnpm-debug.log*
 *.p12
 *.key
 *.mobileprovision
-*.turbo
+.turbo/
